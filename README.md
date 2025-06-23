@@ -69,4 +69,5 @@ This project demonstrates how Power BI can be used to analyze and visualize larg
 ## Acknowledgments
 - [Kaggle Netflix Dataset](https://www.kaggle.com/datasets) - For providing the dataset used in this project.
 - Power BI - For creating the dashboard and visualizations.
+- Power Bi file (Google Drive Link: https://drive.google.com/file/d/1TkMlDkL8xHcy7SX_LQdAB19MMv4RG7CB/view?usp=sharing ) 
 
